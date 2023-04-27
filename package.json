@@ -1,0 +1,19 @@
+{
+  "name": "baka-no-guide",
+  "version": "1.0.0",
+  "description": "lol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eve-SatOrU/Baka-no-Guide.git"
+  },
+  "author": "meriem toumi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eve-SatOrU/Baka-no-Guide/issues"
+  },
+  "homepage": "https://github.com/Eve-SatOrU/Baka-no-Guide#readme"
+}
