@@ -1,0 +1,29 @@
+meta(charset="UTF-8")
+link(rel="stylesheet", type="text/css", href="css/style.css")
+.card
+  .card-image
+  .card-text
+    span.date "Let's light it up!"
+    h2 LUX
+    p Luxanna Crownguard hails from Demacia, an insular realm where magical abilities are viewed with fear and suspicion. Able to bend light to her will, she grew up dreading discovery and exile, and was forced to keep her power secret, in order to preserve her family's noble status.
+.card.rgb
+  .card-image.card2
+  .card-text.card2
+    span.date "I am bound, but I will not break."
+    h2 MORGANA
+    p Conflicted between her celestial and mortal natures, Morgana bound her wings to embrace humanity and inflicts her pain and bitterness upon the dishonest and the corrupt. She rejects laws and traditions she believes are unjust, and fights for truth from the shadows of Demacia even as others seek to repress it by casting shields and chains of dark fire.
+.card
+  .card-image.card3
+  .card-text.card3
+    span.date "Everybody dies. Some just need a little help."
+    h2 LUCIAN
+    p Lucian, a Sentinel of Light, is a grim hunter of undying spirits, pursuing them relentlessly and annihilating them with his twin relic pistols. After the wraith Thresh slew his wife, Lucian embarked on the path of vengeance but even with her return to life, his rage is undiminished. Merciless and single-minded.
+script(src="vanilla-tilt.min.js")
+script.
+  
+  VanillaTilt.init(document.querySelectorAll(".card"),{
+          glare: true,
+          reverse: true,
+          "max-glare": 0.15
+        });
+  
