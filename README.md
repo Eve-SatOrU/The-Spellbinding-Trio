@@ -1,7 +1,7 @@
 # Baka no Guide (ばかのガイド) - "Guide for Idiots"
 ## League of Legends Learning Tool "リーグ・オブ・レジェンド学習ツール"
 
-![Screenshot](/hh.png)
+![Screenshot](/hh1.png)
 <!-- 
 Create a website that provides resources and tools for League of Legends players to improve their gameplay. The website can include features such as:
 
